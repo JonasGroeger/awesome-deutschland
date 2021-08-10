@@ -1,4 +1,4 @@
-# Awesome Deutschland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🇩🇪 Awesome Deutschland 🇩🇪 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Eine Linksammlung zur Digitalisierung Deutschlands
 
