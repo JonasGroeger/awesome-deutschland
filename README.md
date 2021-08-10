@@ -15,6 +15,7 @@
 - [Open Data Portal der Deutschen Bahn](https://data.deutschebahn.com/dataset.groups.apis.html) ([Entwicklungsportal](https://developer.deutschebahn.com/))
 - [Liste von Transport-APIs](https://github.com/public-transport/transport-apis)
 - [FragDenStaat API](https://fragdenstaat.de/api/)
+- [XRepository](https://www.xrepository.de/) ([Hilfe zur API](https://www.xrepository.de/cms/hilfe.html#rest-api))
 
 ## Projekte
 
