@@ -28,6 +28,7 @@
 ## Sonstiges
 
 - Freifunk ([GitHub](https://github.com/freifunk))
+- [IRIS connect](https://iris-connect.de) ([GitHub](https://github.com/iris-connect/))
 
 ## Du willst mitarbeiten?
 
